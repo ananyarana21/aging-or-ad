@@ -1,0 +1,15 @@
+{
+  "genes_tested": 21655,
+  "aging_degs": 137,
+  "ad_degs": 28,
+  "shared": 0,
+  "aging_only": 137,
+  "ad_only": 28,
+  "concordant": 0,
+  "discordant": 0,
+  "hypergeom_p": 1.0,
+  "jaccard": 0.0,
+  "spearman_r": -0.38878408378457996,
+  "spearman_p": 0.0,
+  "aging_available": true
+}

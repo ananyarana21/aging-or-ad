@@ -1,0 +1,204 @@
+term,library,direction,adj_p,overlap,genes
+Actin Filament-Based Transport (GO:0099515),GO_Biological_Process_2023,all,0.0424258534462467,2/20,MYO5C;SYNE2
+Vesicle Transport Along Actin Filament (GO:0030050),GO_Biological_Process_2023,all,0.1576739289726992,1/18,MYO5C
+"Retrograde Protein Transport, ER To Cytosol (GO:0030970)",GO_Biological_Process_2023,all,0.1576739289726992,1/17,DERL1
+Nuclear Migration (GO:0007097),GO_Biological_Process_2023,all,0.1576739289726992,1/16,SYNE2
+Endoplasmic Reticulum To Cytosol Transport (GO:1903513),GO_Biological_Process_2023,all,0.1576739289726992,1/15,DERL1
+Regulation Of Monocyte Differentiation (GO:0045655),GO_Biological_Process_2023,all,0.1576739289726992,1/15,HOXA7
+Regulation Of Exit From Mitosis (GO:0007096),GO_Biological_Process_2023,all,0.1576739289726992,1/14,CDC14A
+Mitochondrial Fission (GO:0000266),GO_Biological_Process_2023,all,0.1576739289726992,1/13,SLC25A46
+Regulation Of Leukocyte Migration (GO:0002685),GO_Biological_Process_2023,all,0.1576739289726992,1/13,HOXA7
+Phospholipid Homeostasis (GO:0055091),GO_Biological_Process_2023,all,0.1576739289726992,1/12,SLC25A46
+Cristae Formation (GO:0042407),GO_Biological_Process_2023,all,0.1576739289726992,1/12,SLC25A46
+Regulation Of B Cell Apoptotic Process (GO:0002902),GO_Biological_Process_2023,all,0.1576739289726992,1/10,BTK
+Negative Regulation Of Leukocyte Migration (GO:0002686),GO_Biological_Process_2023,all,0.1576739289726992,1/9,HOXA7
+ER-associated Misfolded Protein Catabolic Process (GO:0071712),GO_Biological_Process_2023,all,0.1576739289726992,1/9,DERL1
+Cytochrome Complex Assembly (GO:0017004),GO_Biological_Process_2023,all,0.1576739289726992,1/7,SLC25A46
+Regulation Of Lymphocyte Apoptotic Process (GO:0070228),GO_Biological_Process_2023,all,0.1576739289726992,1/7,BTK
+Transcription-Dependent Tethering Of RNA Polymerase II Gene DNA At Nuclear Periphery (GO:0000972),GO_Biological_Process_2023,all,0.1576739289726992,1/6,RAE1
+Negative Regulation Of Epidermal Cell Differentiation (GO:0045605),GO_Biological_Process_2023,all,0.1576739289726992,1/6,HOXA7
+Mesoderm Development (GO:0007498),GO_Biological_Process_2023,all,0.1576739289726992,1/19,BTK
+Cellular Response To Misfolded Protein (GO:0071218),GO_Biological_Process_2023,all,0.1576739289726992,1/19,DERL1
+Regulation Of Spindle Organization (GO:0090224),GO_Biological_Process_2023,all,0.1579627945614042,1/20,RAE1
+Organelle Fission (GO:0048285),GO_Biological_Process_2023,all,0.1637581588834244,1/22,SLC25A46
+Vesicle Cytoskeletal Trafficking (GO:0099518),GO_Biological_Process_2023,all,0.1637581588834244,1/39,MYO5C
+Nuclear Transport (GO:0051169),GO_Biological_Process_2023,all,0.1637581588834244,1/39,RAE1
+Negative Regulation Of Cell-Substrate Adhesion (GO:0010812),GO_Biological_Process_2023,all,0.1637581588834244,1/39,HOXA7
+RNA Transport (GO:0050658),GO_Biological_Process_2023,all,0.1637581588834244,1/39,RAE1
+Positive Regulation Of Cytokinesis (GO:0032467),GO_Biological_Process_2023,all,0.1637581588834244,1/39,CDC14A
+Regulation Of Mitotic Spindle Organization (GO:0060236),GO_Biological_Process_2023,all,0.1637581588834244,1/39,RAE1
+Positive Regulation Of Lymphocyte Differentiation (GO:0045621),GO_Biological_Process_2023,all,0.1637581588834244,1/39,BTK
+Inner Mitochondrial Membrane Organization (GO:0007007),GO_Biological_Process_2023,all,0.1637581588834244,1/34,SLC25A46
+Protein Destabilization (GO:0031648),GO_Biological_Process_2023,all,0.1637581588834244,1/36,DERL1
+Toll-Like Receptor Signaling Pathway (GO:0002224),GO_Biological_Process_2023,all,0.1637581588834244,1/31,BTK
+Negative Regulation Of Myeloid Leukocyte Differentiation (GO:0002762),GO_Biological_Process_2023,all,0.1637581588834244,1/30,HOXA7
+Protein Quality Control For Misfolded Or Incompletely Synthesized Proteins (GO:0006515),GO_Biological_Process_2023,all,0.1637581588834244,1/27,DERL1
+Respiratory Chain Complex IV Assembly (GO:0008535),GO_Biological_Process_2023,all,0.1637581588834244,1/26,SLC25A46
+Regulation Of Keratinocyte Differentiation (GO:0045616),GO_Biological_Process_2023,all,0.1637581588834244,1/26,HOXA7
+Regulation Of Cytokine Production Involved In Immune Response (GO:0002718),GO_Biological_Process_2023,all,0.1637581588834244,1/24,BTK
+Protein Exit From Endoplasmic Reticulum (GO:0032527),GO_Biological_Process_2023,all,0.1637581588834244,1/24,DERL1
+Negative Regulation Of Cell-Matrix Adhesion (GO:0001953),GO_Biological_Process_2023,all,0.1637581588834244,1/31,HOXA7
+B Cell Receptor Signaling Pathway (GO:0050853),GO_Biological_Process_2023,all,0.1701222546011441,1/46,BTK
+Response To Organonitrogen Compound (GO:0010243),GO_Biological_Process_2023,all,0.1701222546011441,1/47,DERL1
+Chromosome Organization (GO:0051276),GO_Biological_Process_2023,all,0.1701222546011441,1/45,RAE1
+Positive Regulation Of Cell Division (GO:0051781),GO_Biological_Process_2023,all,0.1701222546011441,1/43,CDC14A
+Negative Regulation Of Immune System Process (GO:0002683),GO_Biological_Process_2023,all,0.1701222546011441,1/44,HOXA7
+Response To Unfolded Protein (GO:0006986),GO_Biological_Process_2023,all,0.1701222546011441,1/44,DERL1
+Nuclear Export (GO:0051168),GO_Biological_Process_2023,all,0.1729323207089027,1/49,RAE1
+Nucleocytoplasmic Transport (GO:0006913),GO_Biological_Process_2023,all,0.1729323207089027,1/50,RAE1
+Positive Regulation Of B Cell Activation (GO:0050871),GO_Biological_Process_2023,all,0.1758673563600714,1/52,BTK
+Peptidyl-Tyrosine Modification (GO:0018212),GO_Biological_Process_2023,all,0.1786652697901675,1/54,BTK
+mRNA Transport (GO:0051028),GO_Biological_Process_2023,all,0.1828004177148695,1/58,RAE1
+Positive Regulation Of Protein Binding (GO:0032092),GO_Biological_Process_2023,all,0.1828004177148695,1/59,DERL1
+Anterior/Posterior Pattern Specification (GO:0009952),GO_Biological_Process_2023,all,0.1828004177148695,1/59,HOXA7
+Negative Regulation Of Peptidase Activity (GO:0010466),GO_Biological_Process_2023,all,0.1828004177148695,1/60,SERPINI2
+mRNA Export From Nucleus (GO:0006406),GO_Biological_Process_2023,all,0.1851484006761918,1/62,RAE1
+Peptidyl-Tyrosine Phosphorylation (GO:0018108),GO_Biological_Process_2023,all,0.1856608838507746,1/67,BTK
+Negative Regulation Of Endopeptidase Activity (GO:0010951),GO_Biological_Process_2023,all,0.1856608838507746,1/66,SERPINI2
+RNA Export From Nucleus (GO:0006405),GO_Biological_Process_2023,all,0.1856608838507746,1/65,RAE1
+Regulation Of Cell-Matrix Adhesion (GO:0001952),GO_Biological_Process_2023,all,0.1856608838507746,1/65,HOXA7
+Regulation Of Endopeptidase Activity (GO:0052548),GO_Biological_Process_2023,all,0.1877118574206999,1/69,SERPINI2
+Second-Messenger-Mediated Signaling (GO:0019932),GO_Biological_Process_2023,all,0.1915712705237476,1/72,BTK
+Ubiquitin-Dependent ERAD Pathway (GO:0030433),GO_Biological_Process_2023,all,0.1915712705237476,1/73,DERL1
+Sensory Perception Of Mechanical Stimulus (GO:0050954),GO_Biological_Process_2023,all,0.196520930027061,1/89,CDC14A
+Sensory Perception Of Sound (GO:0007605),GO_Biological_Process_2023,all,0.196520930027061,1/92,CDC14A
+B Cell Activation (GO:0042113),GO_Biological_Process_2023,all,0.196520930027061,1/92,BTK
+Positive Regulation Of Binding (GO:0051099),GO_Biological_Process_2023,all,0.196520930027061,1/91,DERL1
+Positive Regulation Of Proteasomal Protein Catabolic Process (GO:1901800),GO_Biological_Process_2023,all,0.196520930027061,1/90,ANKIB1
+ERAD Pathway (GO:0036503),GO_Biological_Process_2023,all,0.196520930027061,1/89,DERL1
+Positive Regulation Of Protein Modification By Small Protein Conjugation Or Removal (GO:1903322),GO_Biological_Process_2023,all,0.196520930027061,1/79,DERL1
+Calcium-Mediated Signaling (GO:0019722),GO_Biological_Process_2023,all,0.196520930027061,1/85,BTK
+Positive Regulation Of Protein Ubiquitination (GO:0031398),GO_Biological_Process_2023,all,0.196520930027061,1/84,DERL1
+Positive Regulation Of Ubiquitin-Dependent Protein Catabolic Process (GO:2000060),GO_Biological_Process_2023,all,0.196520930027061,1/83,ANKIB1
+Positive Regulation Of Proteasomal Ubiquitin-Dependent Protein Catabolic Process (GO:0032436),GO_Biological_Process_2023,all,0.196520930027061,1/83,ANKIB1
+Regulation Of Cytokinesis (GO:0032465),GO_Biological_Process_2023,all,0.196520930027061,1/80,CDC14A
+Regulation Of Mitotic Cell Cycle Phase Transition (GO:1901990),GO_Biological_Process_2023,all,0.196520930027061,1/86,CDC14A
+T Cell Receptor Signaling Pathway (GO:0050852),GO_Biological_Process_2023,all,0.1998255071224633,1/95,BTK
+Positive Regulation Of Protein-Containing Complex Assembly (GO:0031334),GO_Biological_Process_2023,all,0.2022933875843416,1/98,BTK
+Axon Development (GO:0061564),GO_Biological_Process_2023,all,0.2022933875843416,1/99,SLC25A46
+Regulation Of Proteasomal Ubiquitin-Dependent Protein Catabolic Process (GO:0032434),GO_Biological_Process_2023,all,0.2184211522558576,1/109,ANKIB1
+Regulation Of Small GTPase Mediated Signal Transduction (GO:0051056),GO_Biological_Process_2023,all,0.2208943554571975,1/118,SWAP70
+Positive Regulation Of Cell Cycle Process (GO:0090068),GO_Biological_Process_2023,all,0.2208943554571975,1/118,CDC14A
+Response To Endoplasmic Reticulum Stress (GO:0034976),GO_Biological_Process_2023,all,0.2208943554571975,1/114,DERL1
+Regulation Of Protein Ubiquitination (GO:0031396),GO_Biological_Process_2023,all,0.2208943554571975,1/113,DERL1
+Regulation Of Protein Binding (GO:0043393),GO_Biological_Process_2023,all,0.2208943554571975,1/118,DERL1
+Protein-Containing Complex Organization (GO:0043933),GO_Biological_Process_2023,all,0.2318358827500093,1/126,SLC25A46
+Antigen Receptor-Mediated Signaling Pathway (GO:0050851),GO_Biological_Process_2023,all,0.2423748908545642,1/134,BTK
+Actin Filament Organization (GO:0007015),GO_Biological_Process_2023,all,0.2557475027060393,1/144,MYO5C
+RHO GTPases Activate WASPs And WAVEs R-HSA-5663213,Reactome_2022,all,0.2574917783586011,1/36,BTK
+FCERI Mediated Ca+2 Mobilization R-HSA-2871809,Reactome_2022,all,0.2574917783586011,1/29,BTK
+Diseases Associated With TLR Signaling Cascade R-HSA-5602358,Reactome_2022,all,0.2574917783586011,1/31,BTK
+Antigen Activates B Cell Receptor Leading To Second Messenger Generation R-HSA-983695,Reactome_2022,all,0.2574917783586011,1/31,BTK
+G-protein Beta:Gamma Signaling R-HSA-397795,Reactome_2022,all,0.2574917783586011,1/32,BTK
+N-glycan Trimming In ER And Calnexin/Calreticulin Cycle R-HSA-532668,Reactome_2022,all,0.2574917783586011,1/35,DERL1
+IRAK4 Deficiency (TLR2/4) R-HSA-5603041,Reactome_2022,all,0.2574917783586011,1/18,BTK
+G Beta:Gamma Signaling Thru BTK R-HSA-8964315,Reactome_2022,all,0.2574917783586011,1/18,BTK
+Regulation Of Gene Expression In Late Stage (Branching Morphogenesis) Pancreatic Bud Precursor Cells R-HSA-210744,Reactome_2022,all,0.2574917783586011,1/16,ONECUT3
+DAP12 Signaling R-HSA-2424491,Reactome_2022,all,0.2574917783586011,1/28,BTK
+Regulation Of Gene Expression In Early Pancreatic Precursor Cells R-HSA-210747,Reactome_2022,all,0.2574917783586011,1/8,ONECUT3
+MyD88 Deficiency (TLR2/4) R-HSA-5602498,Reactome_2022,all,0.2574917783586011,1/17,BTK
+Conversion From APC/C:Cdc20 To APC/C:Cdh1 In Late Anaphase R-HSA-176407,Reactome_2022,all,0.2574917783586011,1/20,CDC14A
+DAP12 Interactions R-HSA-2172127,Reactome_2022,all,0.2653039906722422,1/43,BTK
+Regulation Of Beta-Cell Development R-HSA-186712,Reactome_2022,all,0.2653039906722422,1/41,ONECUT3
+Positive Regulation Of NF-kappaB Transcription Factor Activity (GO:0051092),GO_Biological_Process_2023,all,0.2654558587790157,1/152,BTK
+Negative Regulation Of Cell Migration (GO:0030336),GO_Biological_Process_2023,all,0.2762723584639128,1/163,HOXA7
+Mitochondrion Organization (GO:0007005),GO_Biological_Process_2023,all,0.2762723584639128,1/162,SLC25A46
+Fcgamma Receptor (FCGR) Dependent Phagocytosis R-HSA-2029480,Reactome_2022,all,0.2772798042312999,1/87,BTK
+RAC2 GTPase Cycle R-HSA-9013404,Reactome_2022,all,0.2772798042312999,1/87,SWAP70
+G Alpha (12/13) Signaling Events R-HSA-416482,Reactome_2022,all,0.2772798042312999,1/78,BTK
+E3 Ubiquitin Ligases Ubiquitinate Target Proteins R-HSA-8866654,Reactome_2022,all,0.2772798042312999,1/56,DERL1
+Meiotic Synapsis R-HSA-1221632,Reactome_2022,all,0.2772798042312999,1/60,SYNE2
+Defective CFTR Causes Cystic Fibrosis R-HSA-5678895,Reactome_2022,all,0.2772798042312999,1/60,DERL1
+FCGR3A-mediated Phagocytosis R-HSA-9664422,Reactome_2022,all,0.2772798042312999,1/60,BTK
+Regulation Of Actin Dynamics For Phagocytic Cup Formation R-HSA-2029482,Reactome_2022,all,0.2772798042312999,1/62,BTK
+Protein Ubiquitination R-HSA-8852135,Reactome_2022,all,0.2772798042312999,1/76,DERL1
+ABC Transporter Disorders R-HSA-5619084,Reactome_2022,all,0.2772798042312999,1/77,DERL1
+ER-Phagosome Pathway R-HSA-1236974,Reactome_2022,all,0.2772798042312999,1/89,BTK
+MAPK6/MAPK4 Signaling R-HSA-5687128,Reactome_2022,all,0.2772798042312999,1/90,CDC14A
+Meiosis R-HSA-1500620,Reactome_2022,all,0.2772798042312999,1/88,SYNE2
+Potential Therapeutics For SARS R-HSA-9679191,Reactome_2022,all,0.2772798042312999,1/97,BTK
+RAC3 GTPase Cycle R-HSA-9013423,Reactome_2022,all,0.2772798042312999,1/93,SWAP70
+Reproduction R-HSA-1474165,Reactome_2022,all,0.2772798042312999,1/113,SYNE2
+MyD88:MAL(TIRAP) Cascade Initiated On Plasma Membrane R-HSA-166058,Reactome_2022,all,0.2772798042312999,1/112,BTK
+Signaling By B Cell Receptor (BCR) R-HSA-983705,Reactome_2022,all,0.2772798042312999,1/109,BTK
+APC/C-mediated Degradation Of Cell Cycle Proteins R-HSA-174143,Reactome_2022,all,0.2772798042312999,1/87,CDC14A
+ABC-family Proteins Mediated Transport R-HSA-382556,Reactome_2022,all,0.2772798042312999,1/102,DERL1
+Antigen processing-Cross Presentation R-HSA-1236975,Reactome_2022,all,0.2772798042312999,1/104,BTK
+B cell receptor signaling pathway,KEGG_2021_Human,all,0.2856428586188796,1/81,BTK
+Primary immunodeficiency,KEGG_2021_Human,all,0.2856428586188796,1/38,BTK
+Fc epsilon RI signaling pathway,KEGG_2021_Human,all,0.2856428586188796,1/68,BTK
+Epstein-Barr virus infection,KEGG_2021_Human,all,0.2856428586188796,1/202,BTK
+RNA transport,KEGG_2021_Human,all,0.2856428586188796,1/186,RAE1
+Pathogenic Escherichia coli infection,KEGG_2021_Human,all,0.2856428586188796,1/197,MYO5C
+Protein processing in endoplasmic reticulum,KEGG_2021_Human,all,0.2856428586188796,1/171,DERL1
+Osteoclast differentiation,KEGG_2021_Human,all,0.2856428586188796,1/127,BTK
+Platelet activation,KEGG_2021_Human,all,0.2856428586188796,1/124,BTK
+Cell cycle,KEGG_2021_Human,all,0.2856428586188796,1/124,CDC14A
+NF-kappa B signaling pathway,KEGG_2021_Human,all,0.2856428586188796,1/104,BTK
+Influenza A,KEGG_2021_Human,all,0.2856428586188796,1/172,RAE1
+Amyotrophic lateral sclerosis,KEGG_2021_Human,all,0.2856428586188796,2/364,DERL1;RAE1
+Fc Epsilon Receptor (FCERI) Signaling R-HSA-2454202,Reactome_2022,all,0.3069123832710272,1/130,BTK
+Modification-Dependent Protein Catabolic Process (GO:0019941),GO_Biological_Process_2023,all,0.3123101972877556,1/192,ANKIB1
+Neuron Projection Development (GO:0031175),GO_Biological_Process_2023,all,0.3123101972877556,1/192,SLC25A46
+Toll Like Receptor 4 (TLR4) Cascade R-HSA-166016,Reactome_2022,all,0.3197131763640394,1/140,BTK
+Proteasomal Protein Catabolic Process (GO:0010498),GO_Biological_Process_2023,all,0.3451999544538569,1/220,DERL1
+Positive Regulation Of Cell Motility (GO:2000147),GO_Biological_Process_2023,all,0.3451999544538569,1/221,SYNE2
+Protein Polyubiquitination (GO:0000209),GO_Biological_Process_2023,all,0.3470636265409495,1/226,ANKIB1
+Cilium Organization (GO:0044782),GO_Biological_Process_2023,all,0.3470636265409495,1/228,CDC14A
+Negative Regulation Of Multicellular Organismal Process (GO:0051241),GO_Biological_Process_2023,all,0.3472945404012558,1/231,HOXA7
+Toll-like Receptor Cascades R-HSA-168898,Reactome_2022,all,0.3553055574595231,1/162,BTK
+Cilium Assembly (GO:0060271),GO_Biological_Process_2023,all,0.3587850802594369,1/243,CDC14A
+Positive Regulation Of DNA-binding Transcription Factor Activity (GO:0051091),GO_Biological_Process_2023,all,0.3588151987756665,1/246,BTK
+Disorders Of Transmembrane Transporters R-HSA-5619115,Reactome_2022,all,0.3643750931117376,1/176,DERL1
+Cell Cycle R-HSA-1640170,Reactome_2022,all,0.3643750931117376,2/654,CDC14A;SYNE2
+"Signaling By Rho GTPases, Miro GTPases And RHOBTB3 R-HSA-9716542",Reactome_2022,all,0.3643750931117376,2/660,SWAP70;BTK
+Signaling By Rho GTPases R-HSA-194315,Reactome_2022,all,0.3643750931117376,2/644,SWAP70;BTK
+RAC1 GTPase Cycle R-HSA-9013149,Reactome_2022,all,0.3643750931117376,1/178,SWAP70
+Cellular Component Assembly (GO:0022607),GO_Biological_Process_2023,all,0.3720454827072783,1/260,SLC25A46
+Positive Regulation Of Cell Migration (GO:0030335),GO_Biological_Process_2023,all,0.3820314312406873,1/272,SYNE2
+Plasma Membrane Bounded Cell Projection Assembly (GO:0120031),GO_Biological_Process_2023,all,0.3820314312406873,1/275,CDC14A
+G Alpha (Q) Signaling Events R-HSA-416476,Reactome_2022,all,0.3900687428858184,1/212,BTK
+Gene Expression (GO:0010467),GO_Biological_Process_2023,all,0.398946422899883,1/296,RAE1
+Regulation Of Intracellular Signal Transduction (GO:1902531),GO_Biological_Process_2023,all,0.398946422899883,1/297,SWAP70
+Supramolecular Fiber Organization (GO:0097435),GO_Biological_Process_2023,all,0.413672328784987,1/316,MYO5C
+Proteasome-Mediated Ubiquitin-Dependent Protein Catabolic Process (GO:0043161),GO_Biological_Process_2023,all,0.413672328784987,1/319,DERL1
+Organelle Assembly (GO:0070925),GO_Biological_Process_2023,all,0.413672328784987,1/322,CDC14A
+Protein-Containing Complex Assembly (GO:0065003),GO_Biological_Process_2023,all,0.4158614276533212,1/328,SLC25A46
+Leishmania Infection R-HSA-9658195,Reactome_2022,all,0.4346596823325941,1/247,BTK
+Ubiquitin-Dependent Protein Catabolic Process (GO:0006511),GO_Biological_Process_2023,all,0.4498223631031432,1/367,ANKIB1
+RHO GTPase Effectors R-HSA-195258,Reactome_2022,all,0.4568107694713093,1/269,BTK
+Asparagine N-linked Glycosylation R-HSA-446203,Reactome_2022,all,0.4650308350652772,1/282,DERL1
+Regulation Of Cell Migration (GO:0030334),GO_Biological_Process_2023,all,0.4964336519903137,1/434,SYNE2
+Protein Ubiquitination (GO:0016567),GO_Biological_Process_2023,all,0.4964336519903137,1/434,ANKIB1
+Phosphorylation (GO:0016310),GO_Biological_Process_2023,all,0.4964336519903137,1/429,BTK
+MAPK Family Signaling Cascades R-HSA-5683057,Reactome_2022,all,0.5020707679365142,1/318,CDC14A
+Herpes simplex virus 1 infection,KEGG_2021_Human,all,0.5066363073709379,1/498,ZNF621
+Pathways of neurodegeneration,KEGG_2021_Human,all,0.5066363073709379,1/475,DERL1
+Negative Regulation Of Nucleic Acid-Templated Transcription (GO:1903507),GO_Biological_Process_2023,all,0.5099813852750835,1/456,HOXA7
+Protein Phosphorylation (GO:0006468),GO_Biological_Process_2023,all,0.5395242662045764,1/500,BTK
+Regulation Of DNA-templated Transcription (GO:0006355),GO_Biological_Process_2023,all,0.539792317505083,3/1922,ONECUT3;ZNF621;HOXA7
+Class I MHC Mediated Antigen Processing And Presentation R-HSA-983169,Reactome_2022,all,0.5521506022336486,1/378,BTK
+SARS-CoV Infections R-HSA-9679506,Reactome_2022,all,0.5521506022336486,1/369,BTK
+Regulation Of Transcription By RNA Polymerase II (GO:0006357),GO_Biological_Process_2023,all,0.5745058558628223,3/2028,ONECUT3;ZNF621;HOXA7
+RHO GTPase Cycle R-HSA-9012999,Reactome_2022,all,0.6075487782285169,1/441,SWAP70
+Protein Modification Process (GO:0036211),GO_Biological_Process_2023,all,0.6592908260953108,1/711,BTK
+"Cell Cycle, Mitotic R-HSA-69278",Reactome_2022,all,0.672370793980925,1/523,CDC14A
+Negative Regulation Of Transcription By RNA Polymerase II (GO:0000122),GO_Biological_Process_2023,all,0.6807543588317516,1/763,HOXA7
+GPCR Downstream Signaling R-HSA-388396,Reactome_2022,all,0.737407973811958,1/619,BTK
+Positive Regulation Of Transcription By RNA Polymerase II (GO:0045944),GO_Biological_Process_2023,all,0.7522371006941317,1/938,HOXA7
+Signaling By GPCR R-HSA-372790,Reactome_2022,all,0.7706719345878368,1/689,BTK
+Transport Of Small Molecules R-HSA-382551,Reactome_2022,all,0.7706719345878368,1/706,DERL1
+Adaptive Immune System R-HSA-1280218,Reactome_2022,all,0.7739213316264257,1/733,BTK
+Negative Regulation Of DNA-templated Transcription (GO:0045892),GO_Biological_Process_2023,all,0.77749348768391,1/1025,HOXA7
+Signal Transduction R-HSA-162582,Reactome_2022,all,0.8068365322633049,3/2465,SWAP70;BTK;CDC14A
+Disease R-HSA-1643685,Reactome_2022,all,0.8207712259376314,2/1736,DERL1;BTK
+Positive Regulation Of DNA-templated Transcription (GO:0045893),GO_Biological_Process_2023,all,0.8343492900741801,1/1243,HOXA7
+Infectious Disease R-HSA-5663205,Reactome_2022,all,0.8481392395021348,1/961,BTK
+Innate Immune System R-HSA-168249,Reactome_2022,all,0.862834661749002,1/1035,BTK
+Developmental Biology R-HSA-1266738,Reactome_2022,all,0.862834661749002,1/1073,ONECUT3
+Generic Transcription Pathway R-HSA-212436,Reactome_2022,all,0.8858576175879033,1/1190,ZNF621
+RNA Polymerase II Transcription R-HSA-73857,Reactome_2022,all,0.903764206213133,1/1312,ZNF621
+Post-translational Protein Modification R-HSA-597592,Reactome_2022,all,0.905054373315087,1/1383,DERL1
+Gene Expression (Transcription) R-HSA-74160,Reactome_2022,all,0.905054373315087,1/1449,ZNF621
+Metabolism Of Proteins R-HSA-392499,Reactome_2022,all,0.9429356511372052,1/1890,DERL1
+Immune System R-HSA-168256,Reactome_2022,all,0.9429356511372052,1/1943,BTK

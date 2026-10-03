@@ -1,0 +1,10 @@
+GSE = "GSE48350"
+REGION = "hippocampus"
+YOUNG_MAX_AGE = 40
+OLD_MIN_AGE = 60
+FDR = 0.05
+LOGFC_CUT = 0.3
+TOP_HUBS = 10
+COEXPR_R = 0.7
+GENE_SETS = ["GO_Biological_Process_2023", "KEGG_2021_Human", "Reactome_2022"]
+SEED = 42

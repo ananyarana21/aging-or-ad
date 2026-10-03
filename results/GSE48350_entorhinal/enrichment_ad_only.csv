@@ -1,0 +1,111 @@
+term,library,direction,adj_p,overlap,genes
+Ammonium Homeostasis (GO:0097272),GO_Biological_Process_2023,all,0.0454670140065165,1/5,RHCG
+Cell Projection Assembly (GO:0030031),GO_Biological_Process_2023,all,0.0454670140065165,1/12,QRICH2
+Phospholipid Homeostasis (GO:0055091),GO_Biological_Process_2023,all,0.0454670140065165,1/12,SLC25A46
+Ammonium Transmembrane Transport (GO:0072488),GO_Biological_Process_2023,all,0.0454670140065165,1/10,RHCG
+Sequestering Of Extracellular Ligand From Receptor (GO:0035581),GO_Biological_Process_2023,all,0.0454670140065165,1/9,LTBP1
+L-fucose Metabolic Process (GO:0042354),GO_Biological_Process_2023,all,0.0454670140065165,1/8,FUT10
+L-fucose Catabolic Process (GO:0042355),GO_Biological_Process_2023,all,0.0454670140065165,1/8,FUT10
+Cristae Formation (GO:0042407),GO_Biological_Process_2023,all,0.0454670140065165,1/12,SLC25A46
+Cytochrome Complex Assembly (GO:0017004),GO_Biological_Process_2023,all,0.0454670140065165,1/7,SLC25A46
+Amine Transport (GO:0015837),GO_Biological_Process_2023,all,0.0454670140065165,1/7,RHCG
+Regulation Of Transforming Growth Factor Beta Activation (GO:1901388),GO_Biological_Process_2023,all,0.0454670140065165,1/7,LTBP1
+Maintenance Of Protein Location In Extracellular Region (GO:0071694),GO_Biological_Process_2023,all,0.0454670140065165,1/6,LTBP1
+Transcription-Dependent Tethering Of RNA Polymerase II Gene DNA At Nuclear Periphery (GO:0000972),GO_Biological_Process_2023,all,0.0454670140065165,1/6,RAE1
+Fucose Catabolic Process (GO:0019317),GO_Biological_Process_2023,all,0.0454670140065165,1/8,FUT10
+Mitochondrial Fission (GO:0000266),GO_Biological_Process_2023,all,0.0459561426208504,1/13,SLC25A46
+Organelle Fission (GO:0048285),GO_Biological_Process_2023,all,0.052859844655862,1/22,SLC25A46
+Cellular Component Assembly (GO:0022607),GO_Biological_Process_2023,all,0.052859844655862,2/260,QRICH2;SLC25A46
+Cell Projection Organization (GO:0030030),GO_Biological_Process_2023,all,0.052859844655862,1/20,QRICH2
+Transepithelial Transport (GO:0070633),GO_Biological_Process_2023,all,0.052859844655862,1/17,RHCG
+Regulation Of Spindle Organization (GO:0090224),GO_Biological_Process_2023,all,0.052859844655862,1/20,RAE1
+Regulation Of Transforming Growth Factor Beta Production (GO:0071634),GO_Biological_Process_2023,all,0.052859844655862,1/16,LTBP1
+Intracellular Monoatomic Ion Homeostasis (GO:0006873),GO_Biological_Process_2023,all,0.052859844655862,1/20,RHCG
+Negative Regulation Of Proteolysis Involved In Protein Catabolic Process (GO:1903051),GO_Biological_Process_2023,all,0.0571848843580647,1/25,QRICH2
+Respiratory Chain Complex IV Assembly (GO:0008535),GO_Biological_Process_2023,all,0.0571848843580647,1/26,SLC25A46
+Regulation Of Mitotic Spindle Organization (GO:0060236),GO_Biological_Process_2023,all,0.0706667271572415,1/39,RAE1
+Negative Regulation Of Ubiquitin-Dependent Protein Catabolic Process (GO:2000059),GO_Biological_Process_2023,all,0.0706667271572415,1/39,QRICH2
+Nuclear Transport (GO:0051169),GO_Biological_Process_2023,all,0.0706667271572415,1/39,RAE1
+RNA Transport (GO:0050658),GO_Biological_Process_2023,all,0.0706667271572415,1/39,RAE1
+Inner Mitochondrial Membrane Organization (GO:0007007),GO_Biological_Process_2023,all,0.0706667271572415,1/34,SLC25A46
+Regulation Of Ubiquitin-Dependent Protein Catabolic Process (GO:2000058),GO_Biological_Process_2023,all,0.0734889226731071,1/42,QRICH2
+Chromosome Organization (GO:0051276),GO_Biological_Process_2023,all,0.0761185045064743,1/45,RAE1
+Nuclear Export (GO:0051168),GO_Biological_Process_2023,all,0.0769791994160602,1/49,RAE1
+Regulation Of Cell Communication (GO:0010646),GO_Biological_Process_2023,all,0.0769791994160602,1/49,LTBP1
+Nucleocytoplasmic Transport (GO:0006913),GO_Biological_Process_2023,all,0.0769791994160602,1/50,RAE1
+mRNA Transport (GO:0051028),GO_Biological_Process_2023,all,0.086503062650336,1/58,RAE1
+mRNA Export From Nucleus (GO:0006406),GO_Biological_Process_2023,all,0.0897750456125398,1/62,RAE1
+RNA Export From Nucleus (GO:0006405),GO_Biological_Process_2023,all,0.0914796283667353,1/65,RAE1
+Negative Regulation Of Catabolic Process (GO:0009895),GO_Biological_Process_2023,all,0.0984245624851905,1/72,QRICH2
+Positive Regulation Of Ubiquitin-Dependent Protein Catabolic Process (GO:2000060),GO_Biological_Process_2023,all,0.0998855443552678,1/83,ANKIB1
+Positive Regulation Of Proteasomal Ubiquitin-Dependent Protein Catabolic Process (GO:0032436),GO_Biological_Process_2023,all,0.0998855443552678,1/83,ANKIB1
+Glycoprotein Biosynthetic Process (GO:0009101),GO_Biological_Process_2023,all,0.0998855443552678,1/80,FUT10
+Wound Healing (GO:0042060),GO_Biological_Process_2023,all,0.0998855443552678,1/80,FUT10
+Negative Regulation Of Transforming Growth Factor Beta Receptor Signaling Pathway (GO:0030512),GO_Biological_Process_2023,all,0.0998855443552678,1/77,LTBP1
+Positive Regulation Of Proteasomal Protein Catabolic Process (GO:1901800),GO_Biological_Process_2023,all,0.1055908432559104,1/90,ANKIB1
+Axon Development (GO:0061564),GO_Biological_Process_2023,all,0.1129122047429272,1/99,SLC25A46
+Hemopoiesis (GO:0030097),GO_Biological_Process_2023,all,0.1129122047429272,1/101,FUT10
+Regulation Of Proteasomal Ubiquitin-Dependent Protein Catabolic Process (GO:0032434),GO_Biological_Process_2023,all,0.1189324463172709,1/109,ANKIB1
+Tachykinin Receptors Bind Tachykinins R-HSA-380095,Reactome_2022,all,0.1235750037699533,1/5,TAC1
+Protein-Containing Complex Organization (GO:0043933),GO_Biological_Process_2023,all,0.1338263930740085,1/126,SLC25A46
+Protein Targeting (GO:0006605),GO_Biological_Process_2023,all,0.1340771745783199,1/129,FUT10
+Epithelial Cell Differentiation (GO:0030855),GO_Biological_Process_2023,all,0.1343117525745615,1/132,RHCG
+Protein Modification Process (GO:0036211),GO_Biological_Process_2023,all,0.1359607361412423,2/711,CDK19;FUT10
+Protein Glycosylation (GO:0006486),GO_Biological_Process_2023,all,0.1430771147025191,1/147,FUT10
+Epithelium Development (GO:0060429),GO_Biological_Process_2023,all,0.1467067873844633,1/154,RHCG
+Nitrogen Compound Transport (GO:0071705),GO_Biological_Process_2023,all,0.1491695369295546,1/163,RHCG
+Mitochondrion Organization (GO:0007005),GO_Biological_Process_2023,all,0.1491695369295546,1/162,SLC25A46
+Neuron Projection Development (GO:0031175),GO_Biological_Process_2023,all,0.1678565737370722,1/192,SLC25A46
+Modification-Dependent Protein Catabolic Process (GO:0019941),GO_Biological_Process_2023,all,0.1678565737370722,1/192,ANKIB1
+Molecules Associated With Elastic Fibres R-HSA-2129379,Reactome_2022,all,0.1716206169267057,1/28,LTBP1
+Blood Group Systems Biosynthesis R-HSA-9033658,Reactome_2022,all,0.1716206169267057,1/22,FUT10
+Lewis Blood Group Biosynthesis R-HSA-9037629,Reactome_2022,all,0.1716206169267057,1/18,FUT10
+Organic Substance Transport (GO:0071702),GO_Biological_Process_2023,all,0.172160840218517,1/201,RHCG
+Elastic Fibre Formation R-HSA-1566948,Reactome_2022,all,0.1787919270304961,1/39,LTBP1
+TGF-beta Receptor Signaling Activates SMADs R-HSA-2173789,Reactome_2022,all,0.1787919270304961,1/44,LTBP1
+Protein Polyubiquitination (GO:0000209),GO_Biological_Process_2023,all,0.1886645618465829,1/226,ANKIB1
+Inflammatory Response (GO:0006954),GO_Biological_Process_2023,all,0.1930651976007983,1/236,TAC1
+Transcriptional Regulation Of White Adipocyte Differentiation R-HSA-381340,Reactome_2022,all,0.2083994142511307,1/84,CDK19
+"Transport Of Bile Salts And Organic Acids, Metal Ions And Amine Compounds R-HSA-425366",Reactome_2022,all,0.2083994142511307,1/86,RHCG
+Signaling By TGF-beta Receptor Complex R-HSA-170834,Reactome_2022,all,0.2083994142511307,1/91,LTBP1
+Post-translational Protein Phosphorylation R-HSA-8957275,Reactome_2022,all,0.2083994142511307,1/106,LTBP1
+PPARA Activates Gene Expression R-HSA-1989781,Reactome_2022,all,0.2083994142511307,1/116,CDK19
+Regulation Of Lipid Metabolism By PPARalpha R-HSA-400206,Reactome_2022,all,0.2083994142511307,1/118,CDK19
+Signaling By TGFB Family Members R-HSA-9006936,Reactome_2022,all,0.2083994142511307,1/119,LTBP1
+Regulation Of IGF Transport And Uptake By IGFBPs R-HSA-381426,Reactome_2022,all,0.2083994142511307,1/123,LTBP1
+Inorganic Cation Transmembrane Transport (GO:0098662),GO_Biological_Process_2023,all,0.2247992963907946,1/284,RHCG
+Gene Expression (GO:0010467),GO_Biological_Process_2023,all,0.2295762918628677,1/296,RAE1
+Intracellular Protein Transport (GO:0006886),GO_Biological_Process_2023,all,0.2437727322808416,1/325,FUT10
+Protein-Containing Complex Assembly (GO:0065003),GO_Biological_Process_2023,all,0.2437727322808416,1/328,SLC25A46
+TGF-beta signaling pathway,KEGG_2021_Human,all,0.2616340565922085,1/94,LTBP1
+RNA transport,KEGG_2021_Human,all,0.2616340565922085,1/186,RAE1
+Influenza A,KEGG_2021_Human,all,0.2616340565922085,1/172,RAE1
+Ubiquitin-Dependent Protein Catabolic Process (GO:0006511),GO_Biological_Process_2023,all,0.2650274034760934,1/367,ANKIB1
+Amyotrophic lateral sclerosis,KEGG_2021_Human,all,0.2890707720515798,1/364,RAE1
+Neuroactive ligand-receptor interaction,KEGG_2021_Human,all,0.2890707720515798,1/341,TAC1
+Protein Ubiquitination (GO:0016567),GO_Biological_Process_2023,all,0.2928755192352402,1/434,ANKIB1
+Nervous System Development (GO:0007399),GO_Biological_Process_2023,all,0.2928755192352402,1/433,FUT10
+Phosphorylation (GO:0016310),GO_Biological_Process_2023,all,0.2928755192352402,1/429,CDK19
+Peptide Ligand-Binding Receptors R-HSA-375276,Reactome_2022,all,0.3022276383775968,1/196,TAC1
+G Alpha (Q) Signaling Events R-HSA-416476,Reactome_2022,all,0.3047856461237357,1/212,TAC1
+Herpes simplex virus 1 infection,KEGG_2021_Human,all,0.3150175866782025,1/498,ZNF621
+Protein Phosphorylation (GO:0006468),GO_Biological_Process_2023,all,0.3252323937292952,1/500,CDK19
+SLC-mediated Transmembrane Transport R-HSA-425407,Reactome_2022,all,0.3302240180562266,1/247,RHCG
+Metabolism Of Carbohydrates R-HSA-71387,Reactome_2022,all,0.3428966086098103,1/285,FUT10
+Extracellular Matrix Organization R-HSA-1474244,Reactome_2022,all,0.3428966086098103,1/291,LTBP1
+Class A/1 (Rhodopsin-like Receptors) R-HSA-373076,Reactome_2022,all,0.3510521851625792,1/327,TAC1
+Generic Transcription Pathway R-HSA-212436,Reactome_2022,all,0.3510521851625792,2/1190,ZNF770;ZNF621
+RNA Polymerase II Transcription R-HSA-73857,Reactome_2022,all,0.3869947033748927,2/1312,ZNF770;ZNF621
+GPCR Ligand Binding R-HSA-500792,Reactome_2022,all,0.4086184571953163,1/458,TAC1
+Gene Expression (Transcription) R-HSA-74160,Reactome_2022,all,0.4086184571953163,2/1449,ZNF770;ZNF621
+GPCR Downstream Signaling R-HSA-388396,Reactome_2022,all,0.496441880483467,1/619,TAC1
+Signaling By GPCR R-HSA-372790,Reactome_2022,all,0.5050222147413843,1/689,TAC1
+Transport Of Small Molecules R-HSA-382551,Reactome_2022,all,0.5050222147413843,1/706,RHCG
+Metabolism Of Lipids R-HSA-556833,Reactome_2022,all,0.5050222147413843,1/732,CDK19
+Metabolism R-HSA-1430728,Reactome_2022,all,0.5280215400204076,2/2049,CDK19;FUT10
+Developmental Biology R-HSA-1266738,Reactome_2022,all,0.6044980721073817,1/1073,CDK19
+Signal Transduction R-HSA-162582,Reactome_2022,all,0.6044980721073817,2/2465,TAC1;LTBP1
+Post-translational Protein Modification R-HSA-597592,Reactome_2022,all,0.6793728302357003,1/1383,LTBP1
+Metabolism Of Proteins R-HSA-392499,Reactome_2022,all,0.774529024151154,1/1890,LTBP1
+Regulation Of DNA-templated Transcription (GO:0006355),GO_Biological_Process_2023,all,0.7915829841754867,1/1922,ZNF621
+Regulation Of Transcription By RNA Polymerase II (GO:0006357),GO_Biological_Process_2023,all,0.7989791893419402,1/2028,ZNF621
